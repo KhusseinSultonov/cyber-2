@@ -1,0 +1,23 @@
+В этом модуле вы изучите, что такое разведка и базовая идея эксплуатации уязвимостей — какие данные и методы позволяют обнаружить уязвимые сервисы и как безопасно моделировать эксплуатацию.
+
+Коротко о том, чему вы научитесь:
+
+Понимать роль разведки и перечисления в процессе тестирования безопасности.
+Отличать пассивные и активные методы сбора информации и понимать их влияние на «шум»/детектируемость.
+Идентифицировать признаки потенциальных уязвимостей: устаревшие версии программного обеспечения, публично известные CVE, небезопасные конфигурации.
+Понимать концепцию эксплуатации уязвимостей на концептуальном уровне — что такое эксплойт, payload, привилегии и сессии — без практического исполнения на реальных системах.
+Изучите базовые инструменты для эксплуатации уязвимостей.
+На практике поймете принцип работы утилит Meterpreter и Metasploit.
+
+
+
+In this module, you will learn about reconnaissance and the basic concept of vulnerability exploitation — what data and methods help identify vulnerable services, and how to safely simulate exploitation in a controlled environment.
+
+Here’s a brief overview of what you will learn:
+
+Understand the role of reconnaissance and enumeration in the security testing process.
+Distinguish between passive and active information gathering methods and understand their impact on noise and detectability.
+Identify potential vulnerability indicators: outdated software versions, publicly known CVEs, and insecure configurations.
+Grasp the concept of exploitation on a theoretical level — what an exploit, payload, privilege, and session are — without performing real attacks on live systems.
+Explore basic tools used for vulnerability exploitation.
+Gain a practical understanding of how Meterpreter and Metasploit utilities work
